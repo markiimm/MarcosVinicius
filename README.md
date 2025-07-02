@@ -1,57 +1,75 @@
-<h1 align="center">Olá, eu sou Marcos Vinicius 👋</h1>
+<h1 align="center">Olá, eu sou o Marcos Vinicius 👋</h1>
 
 <p align="center">
   🚀 <strong>Desenvolvedor Front-End em formação</strong><br>
-  Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por desenvolvimento front-end com foco em <strong>React</strong>, <strong>Next.js</strong> e <strong>TypeScript</strong>.<br>
+  Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologias modernas como <strong>React</strong>, <strong>Next.js</strong> e <strong>TypeScript</strong>.<br>
   Busco minha primeira oportunidade como desenvolvedor júnior para aplicar meus conhecimentos e crescer profissionalmente.
 </p>
 
----
+<hr/>
 
 ## 🧠 Sobre Mim
 
 - 💡 Crio interfaces modernas, funcionais e acessíveis.
 - 🔧 Foco em componentização, responsividade e consumo de APIs externas.
-- 📈 Em constante evolução, com o objetivo de me tornar um profissional **Fullstack** no futuro.
+- 📈 Buscando evoluir continuamente para me tornar um desenvolvedor **Fullstack**.
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/marcovinicius1)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:mavsoares.oliveira@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge)](https://wa.me/5511939547919)
+<p align="center">
+  <a href="https://linkedin.com/in/marcovinicius1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mavsoares.oliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/5511939547919">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge" alt="WhatsApp"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" title="Lua" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL / HeidiSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" title="Lua" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL / HeidiSQL" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="40" />
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markiimm&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markiimm&layout=compact&langs_count=10&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markiimm&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas de Marcos" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markiimm&layout=compact&langs_count=10&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
 ## 🏆 Conquistas GitHub
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=markiimm&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=markiimm&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
