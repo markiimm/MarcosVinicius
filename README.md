@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Marcos Vinicius 👋</h1>
 
 <p align="center">
-  🚀 <strong>Desenvolvedor Front-End em formação</strong><br>
+  🚀 <strong>Desenvolvedor Fullstack em formação</strong><br>
   Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologias modernas como <strong>React</strong>, <strong>Next.js</strong> e <strong>TypeScript</strong>.<br>
   Busco minha primeira oportunidade como desenvolvedor júnior para aplicar meus conhecimentos e crescer profissionalmente.
 </p>
@@ -12,7 +12,7 @@
 
 - 💡 Crio interfaces modernas, funcionais e acessíveis.
 - 🔧 Foco em componentização, responsividade e consumo de APIs externas.
-- 📈 Buscando evoluir continuamente para me tornar um desenvolvedor **Fullstack**.
+- 📈 Buscando evoluir continuamente para me tornar um desenvolvedor **Fullstack** gigante.
 
 ---
 
